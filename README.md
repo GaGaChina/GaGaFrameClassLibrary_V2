@@ -1,0 +1,2 @@
+# GaGaFrameClassLibrary_V2
+GaGaFrame几套框架使用的统一类库
